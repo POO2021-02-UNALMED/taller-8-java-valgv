@@ -26,8 +26,8 @@ public class Jugador extends Futbolista {
         return super.toString() + " con el dorsal " + dorsal + ". Ha marcado " + golesMarcados;
     }
     
-    /*@Override
+    @Override
     public boolean jugarConLasManos() {
         return false;
-    }  */  
+    }    
 }
