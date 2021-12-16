@@ -34,10 +34,10 @@ public class Portero extends Futbolista {
     }
     
 
-    /*public byte getDorsal() {
+    public byte getDorsal() {
         return dorsal;
     }
     public void setDorsal(byte dorsal) {
         this.dorsal = dorsal;
-    } */
+    }
 }
